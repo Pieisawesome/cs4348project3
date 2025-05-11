@@ -21,3 +21,15 @@ So far I've been able to create the basic layout of main. I just finished making
 Start of a new work day. Will be working on insert and how exactly I want it to work? I'm not still but I have some ideas of how to go about this. I guess most of the start of this session will be figuring that part out. Hoping to figure that out then work on the next functions/implementations.
 
 ### During Session:
+### 2:41 PM
+I think I understand how index file works now. Its 512 bytes so I have to change my inputs to a format that can fit that. Currently working on implementing header and keys. Also what is this magic number? Is it supposed to be random?
+
+...
+-------------------------------
+
+## Start of Session: 5/11/2025
+## 3:27 PM
+I DONT WANNA WORK ON THIS. I've been procasting so much cause I want summer break to be here. Pain. Oh well. Time to finish this project. Today will be finishing this project as much as I can cause its due today. Main segments/parts I'll be working in. Finishing up insert, Working on print (I feel like this one will be easier), extract (if I have insert done and know where to find the keys then extracting from a file and inserting it into other shouldnt be too bad), ... So I'll work on finishing up insert for now. 
+
+## During Session:
+###
